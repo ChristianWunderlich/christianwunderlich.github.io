@@ -8,3 +8,9 @@ my name is Christian Wunderlich, I´m working in the tech industry for more than
 ### Badges
 
 ![Badges](/assets/img/aboutme/badges2.png){: .mx-auto.d-block :}
+
+### work experience
+
+| timespan | industry | technology | project description |
+| -------- | -------- | ---------- | ------------------- |
+| 08/2021 - now | Automotive - automobile manufacturer | Azure OpenAI, Azure AI Search, Azure Function, Azure ML, Azure OpenAI Studion, PromtFlow | <ul><li>Contributed to the Contractual Intelligence project, enhancing efficiency in analyzing and comparing contract data.</li><li>Conducted data analysis to identify patterns in various contracts.</li><li>Implemented and defined a custom Search Index for a hybrid search concept.</li><li>Developed a Retrieval Augmented Generation (RAG) architecture using Azure AI Search and Azure OpenAI.</li><li>Automated pre-processing tasks for each document using the Document Intelligence Service and Azure Functions.</li><li>Built a Prompt Flow with multiple variations to respond to different user prompts.</li></ul> |
