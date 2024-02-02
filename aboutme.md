@@ -5,10 +5,6 @@ subtitle:
 ---
 my name is Christian Wunderlich, I´m working in the tech industry for more than a decade now with my main focus on Azure Cloud and Azure Infrastructure. Since 2018 I´m working for **Microsoft** as a Senior Azure Consultant.
 
-### Badges
-
-![Badges](/assets/img/aboutme/badges2.png){: .mx-auto.d-block :}
-
 ### work experience
 
 | Employer | Timespan | Project Details |
@@ -18,3 +14,6 @@ Microsoft<br> **Senior Customer Enigneer** | 09.2020 - 08.2021 | I fostered and 
 Microsoft<br> **Premier Field Engineer** | 04.2018 - 09.2020 | My primary professional emphasis has been on cultivating expertise in ConfigMgr (Configuration Manager). In my role as a Designated Support Engineer (DSE), I have been dedicated to providing customers with comprehensive support, continuous evolution, and valuable consultation. Additionally, I have garnered numerous accreditations, notably including CMRES, PFECH, OA-IMDM, and others. Notably, I have achieved successful project deliveries both within domestic settings and on the international stage. |
 GfK Group-IT<br> **IT Consultant** | 07.2012 - 04.2018 | From June 2014 to April 2018, I served as an IT Consultant in the End User Services division of GfK Group-IT. In this role, I played a key role in planning and implementing the IT strategy for End User Services, acting as the Single Point of Contact between the business and GfK Group IT. I was involved in the technical design of the Next Generation Workplace (NgW) architecture, with a strong emphasis on automating the global NgW RollOut, incorporating elements such as Zero Touch Installation, MDT 2013 custom scripting, Powershell integration, Custom Bootimages, and Reporting. Additionally, I took on the technical responsibility for the global SCCM and Client Infrastructure, overseeing the deployment of SCCM 1703 with future integration plans for MS Azure and MS Intune. This covered numerous locations and distribution points in over 100 countries, managing approximately 17,000 clients operating on Windows 1709 with a focus on Patch Management. My responsibilities extended to calculating service prices, managing capacity and availability, drafting Service Level Agreements, and engaging in international project management. Earlier, from April 2014 to June 2014, I worked as a Junior IT Specialist at GfK North America, contributing to the Exchange Program and providing support for the introduction of the SPSS RollOut in North America. From July 2012 to April 2014, I held the position of IT Assistant at GfK Service Desk Germany, where I enhanced the efficiency of the automated local Client RollOut and managed the accounting and operations of the Asset Management System. I also played a supportive role in the implementation of an Asset Management System during this period. |
 
+### Badges
+
+![Badges](/assets/img/aboutme/badges2.png){: .mx-auto.d-block :}
