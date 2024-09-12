@@ -56,3 +56,7 @@ if res.figures:
 ```
 
 This process will extract all figures and images identified by the Document Intelligence analysis and save them as PNG files. These files can then be easily utilized for subsequent operations. In the context of a Retrieval-Augmented Generation (RAG) model, for instance, the extracted PNG files can be used to generate descriptions that are embedded alongside the document text, ensuring no information is overlooked.
+
+|Link|Description| 
+|---|---|
+|Azure Documentation for Document Intelligence|[https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-layout?view=doc-intel-4.0.0&tabs=sample-code](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-layout?view=doc-intel-4.0.0&tabs=sample-code)|
