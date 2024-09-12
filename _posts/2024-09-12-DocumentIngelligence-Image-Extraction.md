@@ -3,8 +3,8 @@ layout: post
 title: automatic image extraction for Documents
 subtitle: extract images of documents analyzed by DocumentIntelligence 
 thumbnail-img: /assets/img/20240912/thumb.jpg
-cover-img: /assets/img/20240724/banner.png
-share-img: /assets/img/20240724/banner.png
+cover-img: /assets/img/20240912/banner.jpg
+share-img: /assets/img/20240912/banner.jpg
 tags: [Azure, DocumentIntelligence, RAG, AI, Azure OpenAI]
 comments: true
 ---
