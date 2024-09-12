@@ -9,6 +9,11 @@ tags: [Azure, DocumentIntelligence, RAG, AI, Azure OpenAI]
 comments: true
 ---
 
+## abstract
+The extraction of visual elements, such as images, graphs, and tables from documents, is crucial for enhancing the accuracy of Retrieval Augmented Generation (RAG) workflows. Previously a complex process, the new Azure Document Intelligence preview API (python SDK: 1.0.0b4 / REST API: 2024-07-31-preview) simplifies the extraction of cropped images as a native feature. This streamlined approach allows users to efficiently capture and utilize visual data, leading to improved document analysis and more comprehensive RAG implementations. A sample Python script illustrates the process of extracting and saving images as PNG files for further use.
+
+## image extraction
+
 In many documents, images, graphs, and tables contain critical information that often complements, or even surpasses, the relevance of the accompanying text. For effective Retrieval Augmented Generation (RAG), it is essential to index this visual data alongside the textual content. Neglecting to capture information from images, tables, or other figures results in incomplete data retrieval and diminishes the quality of answer generation when using a Large Language Model (LLM). Therefore, extracting and indexing this information is vital for achieving optimal performance.
 
 Historically, extracting visual elements from documents has been a complex task. It required converting bounding regions into bounding box coordinates and frequently involved using external Python frameworks, adding significant complexity to the process.
@@ -49,3 +54,5 @@ if res.figures:
                 writer.writelines(response)
 
 ```
+
+This process will extract all figures and images identified by the Document Intelligence analysis and save them as PNG files. These files can then be easily utilized for subsequent operations. In the context of a Retrieval-Augmented Generation (RAG) model, for instance, the extracted PNG files can be used to generate descriptions that are embedded alongside the document text, ensuring no information is overlooked.
